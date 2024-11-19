@@ -1,0 +1,7 @@
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\obj\Debug\roupabox.csproj.AssemblyReference.cache
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\obj\Debug\roupabox.csproj.CoreCompileInputs.cache
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\bin\Debug\roupabox.exe.config
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\bin\Debug\roupabox.exe
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\bin\Debug\roupabox.pdb
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\obj\Debug\roupabox.exe
+C:\Users\caua.cferreira2\source\repos\roupabox\roupabox\obj\Debug\roupabox.pdb
