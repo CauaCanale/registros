@@ -1,0 +1,10 @@
+C:\Users\caua.cferreira2\source\repos\API\API\bin\Debug\API.exe.config
+C:\Users\caua.cferreira2\source\repos\API\API\bin\Debug\API.exe
+C:\Users\caua.cferreira2\source\repos\API\API\bin\Debug\API.pdb
+C:\Users\caua.cferreira2\source\repos\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caua.cferreira2\source\repos\API\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caua.cferreira2\source\repos\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\caua.cferreira2\source\repos\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\caua.cferreira2\source\repos\API\API\obj\Debug\API.csproj.Up2Date
+C:\Users\caua.cferreira2\source\repos\API\API\obj\Debug\API.exe
+C:\Users\caua.cferreira2\source\repos\API\API\obj\Debug\API.pdb
